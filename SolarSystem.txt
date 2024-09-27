@@ -2,6 +2,7 @@ Sonne
 Merkur
 Venus
 Erde
+- Mond
 Mars
 Jupiter
 Saturn
